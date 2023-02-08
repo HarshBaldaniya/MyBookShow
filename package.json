@@ -1,7 +1,6 @@
 {
   "name": "000123-final-book-project",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -37,5 +36,14 @@
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.11.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshBaldaniya/MyBookShow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HarshBaldaniya/MyBookShow/issues"
+  },
+  "homepage": "https://github.com/HarshBaldaniya/MyBookShow#readme",
+  "description": ""
 }
